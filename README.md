@@ -6,13 +6,13 @@ Compare 4 major Javascript Libraries namely AngularJS, ReactJS, VueJS and Electr
 # HTML Page content
 To truely evaluate the capability of the Javascript libraries, we will conduct common Javascript functionality such as: <br />
 
--- Operator
--- Functions
--- Objects
--- Animation
--- Navigation
--- Error Handling
--- Form Validations
--- Multimedia
--- Debugging
--- Image Map
+- Operator
+- Functions
+- Objects
+- Animation
+- Navigation
+- Error Handling
+- Form Validations
+- Multimedia
+- Debugging
+- Image Map
